@@ -1,13 +1,12 @@
 ### Hi there, I'm Imran Hossain -  [Imran's Website][website] 👋
 
-## I'm a 😍😍 React Lover 😍😍!
- - 🔭 I’m currently learning [Programming Hero][programming]!
+## I'm a 😍😍 Technology Lover 😍😍!
+ - 🔭 I have expertise on Web Development, Server Management , Database Management and Project Management.
+ - ⚡ I have also knowledge of designing web and mobile UI/UX. 
  - 👯 I’m looking to collaborate on any interesting project
- - 🤔 I’m looking for help with Job
+ - 🤔 I love to learn new technologies
  - 📫 How to reach me: du.imran14@gmail.com
- - 🥅 2020 Goals: Learn React, Node, MongoDB, Express, Mongoose, JavaScript, WordPres-Theme Customization
- - ⚡ I love to reach people message of Islam
- - Also I am a SEO and Affiliate Marketing Lover
+ - Also I am a SEO and Digital Marketing Lover
 
 ### Connect with me:
 
