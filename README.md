@@ -1,4 +1,4 @@
-### Hi there, I'm Md. Santo -  [Santo's Website][website] 👋
+### Hi there, I'm Imran Hossain -  [Imran's Website][website] 👋
 
 ## I'm a 😍😍 React Lover 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-santo-75b57a1b9)  
- [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009210365420) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/imran-hossain-2439a614a/)  
+ [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Imran.eshan/) 
  <!-- [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14534717/kawsar-ahmed) -->
 
 
 ### Download my Resume:
-[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/file/d/1cvHxj6huBndi4vGBDzs7B1WKHpU_jSLR/view?fbclid=IwAR3sEeWZmRPqb4a1rx2iGfHENje6oRS2JAFS8ppZc7f_mj4PgpDrQuLMyj4)
+[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/file/u/2/d/1CprXDArtkTc5UNoncrZfhXAsd8sIR3ur/view?usp=sharing)
 
 <br />
 
@@ -44,15 +44,14 @@
 <br />
 <br />
 
-<img width="550" alt="Md.Santo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=santo123457&show_icons=true"/>
+<img width="550" alt="Imran's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=imranhossain14&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=WebKawsar&card_width=550)](https://github.com/santo123457/Info)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossain14_width=550)](https://github.com/imranhossain14)
 
 [programming]: https://www.programming-hero.com/
-[website]: https://creative-agency-bc778.firebaseapp.com/
-[twitter]: https://twitter.com/lovers_theme
-[youtube]:  https://www.youtube.com/
-[linkedin]: https://www.linkedin.com/in/md-santo-75b57a1b9/
+[website]: https://imranhossain.netlify.app/
+[twitter]: https://twitter.com/home?lang=en
+[linkedin]: https://www.linkedin.com/in/imran-hossain-2439a614a/
 [webdevplaylist]: https://google.com/
 [jsplaylist]: https://google.com/
 [cssplaylist]: https://google.com/
